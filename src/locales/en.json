@@ -1,0 +1,52 @@
+{
+  "login": {
+    "welcome": "Bienvenue sur notre site !",
+    "title": "Connection",
+    "mail": "E-mail",
+    "pwd": "Password",
+    "btnLogin": "Login",
+    "error": "Incorrect email or password."
+  },
+  "users": {
+    "title": "List of Users",
+    "btnAdd": "Add user",
+    "allCites": "All cities",
+    "inputSearch": "Search by name or email",
+    "btnDelete": "Delete",
+    "btnSave": "Save",
+    "btnCancel": "Cancel",
+    "table": {
+      "name": "Name",
+      "email": "Email",
+      "companyName": "Company name",
+      "website": "website",
+      "city": "City",
+      "role": "Role",
+      "actions": "Actions"
+    }
+  },
+  "uploads": {
+    "title": "Uploading files",
+    "btnFile": "Add file",
+    "btnDelete": "Delete",
+    "table": {
+      "fileName": "File name",
+      "date": "Date",
+      "uploader": "Uploader",
+      "actions": "Actions"
+    }
+  },
+  "header": {
+    "btnLogin": "Login",
+    "btnLogout": "Logout",
+    "navBar": {
+      "dashboard": "Dashboard",
+      "users": "Users",
+      "uploads": "Uploads"
+    }
+  },
+  "footer": {
+    "contact": "Contactez-nous",
+    "rights": "Tous droits réservés."
+  }
+}
